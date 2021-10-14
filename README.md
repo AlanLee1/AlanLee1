@@ -1,4 +1,6 @@
-### Opa, eu sou o Alan e estou iniciando minha vida na programação!!!
+### Olá pessoal, sejam bem vindos ao meu GitHub 👋
+
+Meu nome é Alan Lee, e estou iniciando minha carreira na programação!
 
 <div align="center">
   <a href="https://github.com/AlanLee1">
